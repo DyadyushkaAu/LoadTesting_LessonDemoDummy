@@ -1,0 +1,6 @@
+com\dummy\demo\KafkaListener.class
+com\dummy\demo\KafkaProducerConfig.class
+com\dummy\demo\CreatePerson.class
+com\dummy\demo\KafkaConsumerConfig.class
+com\dummy\demo\DemoDummy.class
+com\dummy\demo\PatternJSON.class
